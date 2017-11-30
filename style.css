@@ -1,0 +1,132 @@
+body {
+	background-color: #777;
+	content:#ebebeb;
+	width: 960px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+header {
+    color:#777;
+    background-color: lightgrey;
+    width: 960px;
+	float:left;
+	padding:25px;
+	margin:25px;
+	display:inline;
+	overflow:visible;
+	clear: right;
+	text-align:center;
+	position:fixed;
+	top:0px;
+	left:25px;
+}
+nav {
+    color:#777;
+    background-color: lightgrey;
+    width: 960px;
+	float:left;
+	padding:25px;
+	margin:25px;
+	display:inline;
+	overflow:visible;
+	clear: right;
+	text-align:center;
+	position:fixed;
+	top:85px;
+	left:25px;
+}
+section {
+    color:#777;
+    background-color: lightgrey;
+    width: 465px;
+    height:250px;
+	float:left;
+	padding:25px;
+	margin:25px;
+	display:inline;
+	overflow:visible;
+	clear: right;
+	text-align:center;
+	position:fixed;
+	top:180px;
+	left:25px;
+}
+article {
+    color:lightgrey;
+    background-color: #777;
+    width: 425px;
+    height:175px;
+	float:left;
+	padding:25px;
+	margin:25px;
+	display:inline;
+	overflow:visible;
+	clear: right;
+	text-align:center;
+	position:fixed;
+	top:240px;
+	left:45px;
+}
+h1 {
+    color:#777;
+    background-color: lightgrey;
+    width: 400px;
+	float:left;
+	font-size:18px;
+	padding:20px;
+	margin:20px;
+	display:inline;
+	overflow:visible;
+	clear: right;
+	text-align:center;
+	position:fixed;
+	top:320px;
+	left:67px;
+}
+p {
+    color:#777;
+    background-color: lightgrey;
+    width: 400px;
+	float:left;
+	padding:20px;
+	margin:20px;
+	display:inline;
+	overflow:visible;
+	clear: right;
+	text-align:center;
+	position:fixed;
+	top:392px;
+	left:67px;
+}
+aside {
+    color:#777;
+    background-color: lightgrey;
+    width: 425px;
+    height:250px;
+	float:left;
+	padding:25px;
+	margin:25px;
+	display:inline;
+	overflow:visible;
+	clear: right;
+	text-align:center;
+	position:fixed;
+	top: 180px;
+	left:560px;
+}
+footer {
+    color:#777;
+    background-color: lightgrey;
+    width: 960px;
+	float:left;
+	padding:25px;
+	margin:25px;
+	display:inline;
+	overflow:visible;
+	clear: right;
+	text-align:center;
+	position:fixed;
+	top:497px;
+	left:25px;
+}
